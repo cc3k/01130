@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/a106.png</file>
+        <file>icons/a107.png</file>
+        <file>icons/a108.png</file>
+        <file>icons/circle_green.png</file>
+        <file>icons/circle_grey.png</file>
+        <file>icons/circle_red.png</file>
+        <file>icons/circle_orange.png</file>
+        <file>icons/circle_white.png</file>
+        <file>icons/blank.png</file>
+    </qresource>
+</RCC>
